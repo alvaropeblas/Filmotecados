@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\MEDAC\\Desktop\\Nueva carpeta\\db4o-8.0.184.15484.jar"
+    ]
+}
